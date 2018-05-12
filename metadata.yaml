@@ -1,0 +1,35 @@
+_repo: Palvelusv-ke-_42295
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alkio, Santeri
+    aliases:
+    - Paukkunen, Jussi
+    - Heikkiläinen, Iiska
+    - Heikkilainen, Iiska
+    - Filander, Aleksander
+    - Filander, Santeri
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '5319'
+    url: http://www.gutenberg.org/2009/agents/5319
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Santeri_Alkio
+    - http://fi.wikipedia.org/wiki/Santeri_Alkio
+description: ''
+gutenberg_issued: '2013-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42295'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PH'
+title: Palvelusväkeä
+url: http://www.gutenberg.org/ebooks/42295
